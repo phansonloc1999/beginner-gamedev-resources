@@ -22,3 +22,7 @@ A list of resources for CS students wanting to become a game developer
 * [Bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator based on Sfxr
 * [Aseprite](https://www.aseprite.org/) - An animated sprite editor & pixel art tool
 * [Paint.NET](https://www.getpaint.net/) - A  free software for digital photo editing
+
+## Online learning sites
+* [Edx](https://www.edx.org/) - An online learning destination and MOOC provider, offering high-quality courses
+* [Class-central](https://www.class-central.com/) - A search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses
