@@ -30,3 +30,7 @@ A list of resources for CS students wanting to become a game developer
 ## Coding pratice
 * [Codewars](https://www.codewars.com/) - A site where developers achieve code mastery through challenges 
 * [Coderbyte](https://coderbyte.com/) -  A web application that helps you practice your programming skills, prepare for coding bootcamps, job interviews
+
+## Open-source resources
+* [Awesome-list](https://github.com/sindresorhus/awesome) - A curated list of awesome lists with many topics to learn about
+* [Ossu](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
