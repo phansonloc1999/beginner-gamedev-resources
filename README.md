@@ -34,3 +34,6 @@ A list of resources for CS students wanting to become a game developer
 ## Open-source resources
 * [Awesome-list](https://github.com/sindresorhus/awesome) - A curated list of awesome lists with many topics to learn about
 * [Ossu](https://github.com/ossu/computer-science) - Path to a free self-taught education in Computer Science!
+
+## Miscs
+* [Lospec](https://lospec.com/) - A home for digitally restrictive art with online tools for people creating pixel art
