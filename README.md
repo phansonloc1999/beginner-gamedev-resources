@@ -27,6 +27,11 @@ A list of resources for CS students wanting to become a game developer
 * [Edx](https://www.edx.org/) - An online learning destination and MOOC provider, offering high-quality courses
 * [Class-central](https://www.class-central.com/) - A search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses
 
+## Assets
+* [VG-resource](https://www.vg-resource.com/) -  A place where you can find sprite sheets, models, textures and sound effects from various new and old school video games
+* [Opengameart](https://opengameart.org/) - A media repository intended for use with free and open source software game projects
+* [Kenney](https://kenney.nl/) - A game studio that creates games and free to use 2D/3D game assets
+
 ## Coding pratice
 * [Codewars](https://www.codewars.com/) - A site where developers achieve code mastery through challenges 
 * [Coderbyte](https://coderbyte.com/) -  A web application that helps you practice your programming skills, prepare for coding bootcamps, job interviews
