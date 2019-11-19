@@ -26,6 +26,7 @@ A list of resources for CS students wanting to become a game developer
 ## Online learning sites
 * [Edx](https://www.edx.org/) - An online learning destination and MOOC provider, offering high-quality courses
 * [Class-central](https://www.class-central.com/) - A search engine and reviews site for free online courses popularly known as MOOCs or Massive Open Online Courses
+* [Tutsplus](https://gamedevelopment.tutsplus.com/) - Offers video courses and written tutorials to help you learn creative skills in code, design, music for game development and more.
 
 ## Assets
 * [VG-resource](https://www.vg-resource.com/) -  A place where you can find sprite sheets, models, textures and sound effects from various new and old school video games
