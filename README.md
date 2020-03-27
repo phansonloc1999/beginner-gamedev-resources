@@ -21,7 +21,9 @@ A list of resources for CS students wanting to become a game developer
 ) - A flexible level editor
 * [Bfxr](https://www.bfxr.net/) - Flash + AIR sound effects generator based on Sfxr
 * [Aseprite](https://www.aseprite.org/) - An animated sprite editor & pixel art tool
-* [Paint.NET](https://www.getpaint.net/) - A  free software for digital photo editing
+* [Paint.NET](https://www.getpaint.net/) - A free software for digital photo editing
+* [Gitpod](https://www.gitpod.io/) - Online IDE for Github and Gitlab (VSCode on Ubuntu)
+* [Repl.it](https://repl.it/languages/love2d) - Online LOVE2D Editor and IDE
 
 ## Online learning sites
 * [Edx](https://www.edx.org/) - An online learning destination and MOOC provider, offering high-quality courses
