@@ -19,7 +19,7 @@ A list of resources for CS students wanting to become a game developer
 * [Gamemaker Studio](https://www.yoyogames.com/gamemaker) - [Paid] Cross-platform game development engine with drag-and-drop UI and its own GML scripting language
 * [Construct 2](https://www.construct.net/en) - [Free] Drag and drop game engine with event sheets, extensible with Javascript
 * [GDevelop](https://gdevelop-app.com/) - [Open source] Has some similarities to Construct 2 but run entirely on the web
-* [Unity](https://unity.com/) - Most popular game engine, cross-platform exporting with a huge asset store, C# scripting support.
+* [Unity](https://unity.com/) - [Free/Paid] Most popular game engine, cross-platform exporting with a huge asset store, C# scripting support.
 * [Playcanvas](https://playcanvas.com/) - [Open source] Has some similarities to Unity (UI and ECS) but uses Javascript, entirely run on the web
 * [Defold](https://defold.com/) - [Free] Lua game engine that simplifies development of 2D games for all major platforms - HTML5, Windows, MacOS, iOS, Android, Linux 
 
