@@ -8,11 +8,20 @@ A list of resources for CS students wanting to become a game developer
 * [CppReference](https://en.cppreference.com/w/cpp) - A complete online reference for the C and C++ languages and standard libraries
 * [LearnCpp](https://www.learncpp.com/) - A free website devoted to teaching you how to program in C++
 * [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - A list of 10 mins youtube videos explaining C++ topics
-* [Raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to enjoy videogames programming
+* [Raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to for beginner student learn videogames programming in C++
+
 ### Lua
 * [Programming in Lua](https://www.lua.org/pil/) -  A detailed and authoritative introduction to all aspects of Lua programming written by Lua's chief architect
 * [LOVE2D](https://love2d.org/) - A 2D game framework written in Lua
 * [GD50](https://www.youtube.com/playlist?list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh) - Harvard CS50's Introduction to game development
+
+## Game engines
+* [Gamemaker Studio](https://www.yoyogames.com/gamemaker) - [Paid] Cross-platform game development engine with drag-and-drop UI and its own GML scripting language
+* [Construct 2](https://www.construct.net/en) - [Free] Drag and drop game engine with event sheets, extensible with Javascript
+* [GDevelop](https://gdevelop-app.com/) - [Open source] Has some similarities to Construct 2 but run entirely on the web
+* [Unity](https://unity.com/) - Most popular game engine, cross-platform exporting with a huge asset store, C# scripting support.
+* [Playcanvas](https://playcanvas.com/) - [Open source] Has some similarities to Unity (UI and ECS) but uses Javascript, entirely run on the web
+* [Defold](https://defold.com/) - [Free] Lua game engine that simplifies development of 2D games for all major platforms - HTML5, Windows, MacOS, iOS, Android, Linux 
 
 ## Toolbox
 * [Shoebox](https://renderhjs.net/shoebox/) - An Adobe Air based app for Windows and Mac OSX with game and ui related tools
