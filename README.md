@@ -3,7 +3,6 @@ A list of resources for Computer Science/Information Technology students wanting
 
 ## Programming languages
 ### C++: 
-* [Programming: Principles and Practice Using C++](http://www.stroustrup.com/Programming/) - An introduction to Programming by the inventor of C++
 * [TutorialsPoint](https://www.tutorialspoint.com/cplusplus/) - Helps to understand the basic to advanced concepts related to C++
 * [Vietjack](https://vietjack.com/cplusplus/) - Vietnamese version of TutorialsPoint
 * [CppReference](https://en.cppreference.com/w/cpp) - A complete online reference for the C and C++ languages and standard libraries
