@@ -10,9 +10,11 @@ A list of resources for CS students wanting to become a game developer
 * [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) - A list of 10 mins youtube videos explaining C++ topics
 * [Raylib](https://github.com/raysan5/raylib) - A simple and easy-to-use library to for beginner student learn videogames programming in C++
 
+### C#:
+* [C# tutorial](https://www.youtube.com/watch?v=lisiwUZJXqQ) - A single video that explains almost everything about C#
+
 ### Lua
 * [Programming in Lua](https://www.lua.org/pil/) -  A detailed and authoritative introduction to all aspects of Lua programming written by Lua's chief architect
-* [LOVE2D](https://love2d.org/) - A 2D game framework written in Lua
 * [GD50](https://www.youtube.com/playlist?list=PLhQjrBD2T383Vx9-4vJYFsJbvZ_D17Qzh) - Harvard CS50's Introduction to game development
 
 ## Game engines
@@ -22,6 +24,8 @@ A list of resources for CS students wanting to become a game developer
 * [Unity](https://unity.com/) - [Free/Paid] Most popular game engine, cross-platform exporting with a huge asset store, C# scripting support.
 * [Playcanvas](https://playcanvas.com/) - [Open source] Has some similarities to Unity (UI and ECS) but uses Javascript, entirely run on the web
 * [Defold](https://defold.com/) - [Free] Lua game engine that simplifies development of 2D games for all major platforms - HTML5, Windows, MacOS, iOS, Android, Linux 
+* [GBStudio](https://gbstudio.dev) - [Open source] A quick and easy to use drag and drop retro game creator for your favourite handheld video game system.
+* [LOVE2D](https://love2d.org/) - A 2D game **FRAMEWORK** written in Lua
 
 ## Toolbox
 * [Shoebox](https://renderhjs.net/shoebox/) - An Adobe Air based app for Windows and Mac OSX with game and ui related tools
@@ -33,6 +37,7 @@ A list of resources for CS students wanting to become a game developer
 * [Paint.NET](https://www.getpaint.net/) - A free software for digital photo editing
 * [Gitpod](https://www.gitpod.io/) - Online IDE for Github and Gitlab (VSCode on Ubuntu)
 * [Repl.it](https://repl.it/languages/love2d) - Online LOVE2D Editor and IDE
+* [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html) - The core code editor that powers VS Code
 
 ## Online learning sites
 * [Edx](https://www.edx.org/) - An online learning destination and MOOC provider, offering high-quality courses
