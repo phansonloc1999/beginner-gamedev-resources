@@ -62,3 +62,4 @@ A list of resources for CS students wanting to become a game developer
 
 ## Miscs
 * [Lospec](https://lospec.com/) - A home for digitally restrictive art with online tools for people creating pixel art
+* [Game Programming Patterns](https://gameprogrammingpatterns.com/) - A collection of patterns the author found in games that make code cleaner, easier to understand, and faster.
