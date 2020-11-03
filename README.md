@@ -1,5 +1,6 @@
 # Beginner Gamedev Resources
-A list of resources for CS students wanting to become a game developer
+A list of resources for Computer Science/Information Technology students wanting to become a Game Developer.
+
 ## Programming languages
 ### C++: 
 * [Programming: Principles and Practice Using C++](http://www.stroustrup.com/Programming/) - An introduction to Programming by the inventor of C++
